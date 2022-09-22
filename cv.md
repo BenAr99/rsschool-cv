@@ -12,12 +12,14 @@
 - HTML
 - CSS
 - WebStorm
+
 ***
 ### Code Example:
 `function multiply(a, b){
 return  a * b
 }
 `
+
 ***
 ### Work experience: https://github.com/BenAr99/training2
 ***
