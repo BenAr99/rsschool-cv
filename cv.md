@@ -1,7 +1,7 @@
 ## Suleiman Kuliev
 ***
 ### Contact information:
-#### Phone: +89967215899
+#### Phone: +79967215899
 #### E-mail: getto_tawers@mail
 #### Telegram: @BenAr99
 #### Discord: Suleiman Kuliev (@BenAr99)
@@ -12,14 +12,12 @@
 - HTML
 - CSS
 - WebStorm
-
 ***
 ### Code Example:
 `function multiply(a, b){
 return  a * b
 }
 `
-
 ***
 ### Work experience: https://github.com/BenAr99/training2
 ***
